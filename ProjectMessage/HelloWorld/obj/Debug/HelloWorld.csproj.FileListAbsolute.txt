@@ -1,0 +1,6 @@
+C:\Igor\Misc\Projects\Message\ProjectMessage\ProjectMessage\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Igor\Misc\Projects\Message\ProjectMessage\ProjectMessage\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Igor\Misc\Projects\Message\ProjectMessage\ProjectMessage\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Igor\Misc\Projects\Message\ProjectMessage\ProjectMessage\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Igor\Misc\Projects\Message\ProjectMessage\ProjectMessage\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Igor\Misc\Projects\Message\ProjectMessage\ProjectMessage\HelloWorld\obj\Debug\HelloWorld.pdb
